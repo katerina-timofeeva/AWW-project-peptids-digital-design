@@ -1,0 +1,405 @@
+Peptide,Cell line,Cargo,PubmedID,Uptake,Units,Conc.,Time,Temp.,Method,Type,Sequence,all_labels
+pAntp (43-58),HaCaT cells,Biotin,10784032,100.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQNRRMKWKK,1
+pAntp (43-57),HaCaT cells,Biotin,10784032,57.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQNRRMKWK,1
+pAntp (43-56),HaCaT cells,Biotin,10784032,47.5,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQNRRMKW,1
+pAntp (43-55),HaCaT cells,Biotin,10784032,28.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQNRRMK,1
+pAntp (43-54),HaCaT cells,Biotin,10784032,19.5,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQNRRM,1
+pAntp (43-53),HaCaT cells,Biotin,10784032,25.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQNRR,1
+pAntp (43-52),HaCaT cells,Biotin,10784032,15.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQNR,1
+pAntp (43-51),HaCaT cells,Biotin,10784032,18.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQN,1
+pAntp (43-50),HaCaT cells,Biotin,10784032,13.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQ,1
+pAntp (43-48),HaCaT cells,Biotin,10784032,20.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIW,1
+pAntp (44-58),HaCaT cells,Biotin,10784032,87.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,QIKIWFQNRRMKWKK,1
+pAntp (45-58),HaCaT cells,Biotin,10784032,94.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,IKIWFQNRRMKWKK,1
+pAntp (46-58),HaCaT cells,Biotin,10784032,67.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,KIWFQNRRMKWKK,1
+pAntp (47-58),HaCaT cells,Biotin,10784032,48.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,IWFQNRRMKWKK,1
+pAntp (48-58),HaCaT cells,Biotin,10784032,52.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,WFQNRRMKWKK,1
+pAntp (49-58),HaCaT cells,Biotin,10784032,64.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,FQNRRMKWKK,1
+pAntp (50-58),HaCaT cells,Biotin,10784032,60.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,QNRRMKWKK,1
+pAntp (51-58),HaCaT cells,Biotin,10784032,60.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,NRRMKWKK,1
+pAntp (52-58),HaCaT cells,Biotin,10784032,50.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RRMKWKK,1
+pAntp (53-58),HaCaT cells,Biotin,10784032,22.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RMKWKK,1
+Ala43 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,89.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,AQIKIWFQNRRMKWKK,1
+Ala44 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,67.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RAIKIWFQNRRMKWKK,1
+Ala45 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,82.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQAKIWFQNRRMKWKK,1
+Ala46 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,52.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIAIWFQNRRMKWKK,1
+Ala47 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,56.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKAWFQNRRMKWKK,1
+Ala48 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,68.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIAFQNRRMKWKK,1
+Ala49 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,89.5,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWAQNRRMKWKK,1
+Ala50 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,90.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFANRRMKWKK,1
+Ala51 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,61.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQARRMKWKK,1
+Ala52 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,42.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQNARMKWKK,1
+Ala53 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,31.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQNRAMKWKK,1
+Ala54 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,87.5,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQNRRAKWKK,1
+Ala55 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,26.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQNRRMAWKK,1
+Ala56 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,41.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQNRRMKAKK,1
+Ala57 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,21.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQNRRMKWAK,1
+Ala58 substitution mutant of pAntp (43-58),HaCaT cells,Biotin,10784032,23.0,% Absorbance relative to peptide 1 (405 nm),40 uM,60 min,,Fluorescent Microscopy,Cellular uptake,RQIKIWFQNRRMKWKA,1
+Penetratin (pAntp),NIH-3T3 cells,FITC,21319732,27.5,% Intracellular fluorescence of CyLoP-1,2.5 uM,18h,37ºC,Fluorescence spectroscopy,Cellular uptake,RQIKIWFQNRRMKWKK,1
+Tat (49-57),NIH-3T3 cells,FITC,21319732,55.0,% Intracellular fluorescence of CyLoP-1,2.5 uM,18h,37ºC,Fluorescence spectroscopy,Cellular uptake,rkkrrqrrr,1
+Tat (57-49),NIH-3T3 cells,FITC,21319732,46.25,% Intracellular fluorescence of CyLoP-1,2.5 uM,18h,37ºC,Fluorescence spectroscopy,Cellular uptake,rrrqrrkkr,1
+R8,NIH-3T3 cells,FITC,21319732,47.5,% Intracellular fluorescence of CyLoP-1,2.5 uM,18h,37ºC,Fluorescence spectroscopy,Cellular uptake,rrrrrrrr,1
+Bip1,DAMI cells,Fluorescein,21359136,97.0,Cellular uptake (%),200 uM,3h,37ºC,Flow cytometry,Cell-Penetration,VPMLK,1
+Bip2,DAMI cells,Fluorescein,21359136,61.0,Cellular uptake (%),200 uM,3h,37ºC,Flow cytometry,Cell-Penetration,VPTLK,1
+Bip3,DAMI cells,Fluorescein,21359136,79.0,Cellular uptake (%),200 uM,3h,37ºC,Flow cytometry,Cell-Penetration,VPALR,1
+Bip4,DAMI cells,Fluorescein,21359136,90.0,Cellular uptake (%),200 uM,3h,37ºC,Flow cytometry,Cell-Penetration,VSALK,1
+Bip5,DAMI cells,Fluorescein,21359136,65.0,Cellular uptake (%),200 uM,3h,37ºC,Flow cytometry,Cell-Penetration,PMLKE,1
+Bip6,DAMI cells,Fluorescein,21359136,71.0,Cellular uptake (%),200 uM,3h,37ºC,Flow cytometry,Cell-Penetration,VPALK,1
+Bip9,DAMI cells,Fluorescein,21359136,100.0,Cellular uptake (%),200 uM,3h,37ºC,Flow cytometry,Cell-Penetration,KLPVM,1
+Bip10,DAMI cells,Fluorescein,21359136,47.0,Cellular uptake (%),200 uM,3h,37ºC,Flow cytometry,Cell-Penetration,IPMIK,1
+Bip16,DAMI cells,Fluorescein,21359136,70.0,Cellular uptake (%),200 uM,3h,37ºC,Flow cytometry,Cell-Penetration,VPTLQ,1
+Bip19,DAMI cells,Fluorescein,21359136,80.0,Cellular uptake (%),200 uM,3h,37ºC,Flow cytometry,Cell-Penetration,VPTLE,1
+MPG Mutant,HS-68,Fluorescein,12771197,70.0,Fluorescence intensity (%),Charge ratio = 5:1 (MPG/DNA),30 min,37ºC,Fluorescent Microscopy,Transfection,GALFLGFLGAAGSTMGAWSQPKSKRKV,1
+MPG Mutant,Cos-7 cells,Fluorescein,12771197,5.0,Fluorescence intensity (%),Charge ratio = 10:1,30 min,37ºC,Fluorescent Microscopy,Transfection,GALFLGFLGAAGSTMGAWSQPKSKRKV,1
+MPG Mutant,HeLa cells,Fluorescein,12771197,10.0,Fluorescence intensity (%),Charge ratio = 10:1,30 min,37ºC,Fluorescent Microscopy,Transfection,GALFLGFLGAAGSTMGAWSQPKSKRKV,1
+R9,HeLa cells,Fluorescein,21867915,100.0,Cellular uptake (%),5 uM,45 min,37ºC,FCS,Uptake,RRRRRRRRR,1
+R9,MC57,Fluorescein,21867915,100.0,Cellular uptake (%),5 uM,45 min,37ºC,FCS,Uptake,RRRRRRRRR,1
+R9,Jurkat cells,Fluorescein,21867915,100.0,Cellular uptake (%),5 uM,45 min,37ºC,FCS,Uptake,RRRRRRRRR,1
+r9,HeLa cells,Fluorescein,21867915,53.13,Cellular uptake (%),5 uM,45 min,37ºC,FCS,Uptake,rrrrrrrrr,1
+r9,MC57,Fluorescein,21867915,46.87,Cellular uptake (%),5 uM,45 min,37ºC,FCS,Uptake,rrrrrrrrr,1
+r9,Jurkat cells,Fluorescein,21867915,90.62,Cellular uptake (%),5 uM,45 min,37ºC,FCS,Uptake,rrrrrrrrr,1
+cTat,Rat alveolar epithelial cell monolayers (RAECM),Insulin,19228019,1.68,% Amount transported into basolateral fluid,,2h,37ºC,Gamma-well counter,Absorption,crkkrrqrrr,0
+cr9,Rat alveolar epithelial cell monolayers (RAECM),Insulin,19228019,2.46,% Amount transported into basolateral fluid,,2h,37ºC,Gamma-well counter,Absorption,crrrrrrrrr,0
+ck9,Rat alveolar epithelial cell monolayers (RAECM),Insulin,19228019,0.38,% Amount transported into basolateral fluid,,2h,37ºC,Gamma-well counter,Absorption,ckkkkkkkkk,0
+RALA peptide,ZR-75-1 human breast cancer,pDNA,24995949,57.0,% Transfection,N/P ratio 10,48h,,Flow cytometry,Transfection,WEARLARALARALARHLARALARA,1
+RALA peptide,PC3 cells,pDNA,24995949,27.0,% Transfection,N/P ratio 10,48h,,Flow cytometry,Transfection,WEARLARALARALARHLARALARA,1
+EGFP-TAT,Mouse macrophage-like cell line J774 A.1,eGFP,24746937,79.2,% Positive cells,10 umol/L,1h,37ºC,Flow cytometry,Internalization,YGRKKRRQRRR,1
+EGFP-VP_22,Mouse macrophage-like cell line J774 A.3,eGFP,24746937,58.1,% Positive cells,10 umol/L,1h,37ºC,Flow cytometry,Internalization,DAATARGRGRSAASRPTERPRAPARSASRPRRPVD,1
+EGFP-LMWP,Mouse macrophage-like cell line J774 A.5,eGFP,24746937,98.8,% Positive cells,10 umol/L,1h,37ºC,Flow cytometry,Internalization,GSVSRRRRRRGGRRRR,1
+EGFP-hcT(9-32),Mouse macrophage-like cell line J774 A.6,eGFP,24746937,35.6,% Positive cells,10 umol/L,1h,37ºC,Flow cytometry,Internalization,LGTYTQDFNKFHTFPQTAIGVGAP,1
+EGFP-R12,Mouse macrophage-like cell line J774 A.10,eGFP,24746937,75.2,% Positive cells,10 umol/L,1h,37ºC,Flow cytometry,Internalization,RRRRRRRRRRRR,1
+Hph-1,HeLa cells,Hph1Hph1dsRBD/FAM-labeled siRNA complex,24768403,99.0,% Positive cells,100 uM siRNA,1h,,Flow cytometry,Uptake,YARVRRRGPRR,1
+LMWP,Pluripotent mouse mesenchymal progenitor cell line (C3H10T1/2),TAZ,24648725,98.9,% Positive cells,100 nM,20 min,37ºC,Flow cytometry,Internalization,VSRRRRRRGGRRRR,1
+LK-1,HeLa cells,FITC,25056130,67.0,% Positive cells,100 nM,12h,,Flow cytometry,Uptake,LKKLLKLLKKLLKLAG,1
+LK-2,HeLa cells,FITC,25056130,70.0,% Positive cells,100 nM,12h,,Flow cytometry,Uptake,LKKLCKLLKKLCKLAG,1
+VG-21,HEp-2,FITC,25154664,35.3,% Positive cells,1 nM,48h,,Flow cytometry,Uptake,VTPHHVLVDEYTGEWVDSQFK,1
+VG-21,HeLa cells,FITC,25154664,43.8,% Positive cells,1 nM,48h,,Flow cytometry,Uptake,VTPHHVLVDEYTGEWVDSQFK,1
+VG-21,Vero,FITC,25154664,32.4,% Positive cells,1 nM,48h,,Flow cytometry,Uptake,VTPHHVLVDEYTGEWVDSQFK,1
+VG-21,Cos-7 cells,FITC,25154664,26.6,% Positive cells,1 nM,48h,,Flow cytometry,Uptake,VTPHHVLVDEYTGEWVDSQFK,1
+VIP-TAT,Neuro2a cells,FITC,25086267,1.81,% Brain uptake efficiency (% of total peptide i. p. injection of VIP-TAT),100 nmol/kg,,,Fluorescence spectroscopy,Uptake,HSDAVFTDNYTALRKQMAVKKYLNSILNYGRKKRRQRRR,0
+TAT-BID,PC3 cells,BID,25326334,70.0,Cellular uptake (%),40 ug/ml,120 min,,Western blot,,YGRKKRRQRRR,1
+TAT-BID,LNCaP,BID,25326334,100.0,Cellular uptake (%),30 ug/ml,120 min,,Western blot,,YGRKKRRQRRR,1
+TAT-BID,A549 cells,BID,25326334,60.0,Cellular uptake (%),40 ug/ml,120 min,,Western blot,,YGRKKRRQRRR,1
+TAT-BID,HeLa cells,BID,25326334,20.0,Cellular uptake (%),40 ug/ml,120 min,,Western blot,,YGRKKRRQRRR,1
+TAT-lyophiliosomes,HeLa cells,Lyophiliosomes and FITC labelled,25369131,86.0,% Positive cells,25 µg/ml,1h,,Flow cytometry,Internalization,YGRKKRRQRRR,1
+TAT-lyophiliosomes,Ovcar-3 cells,Lyophiliosomes and FITC labelled,25369131,97.0,% Positive cells,25 µg/ml,1h,,Flow cytometry,Internalization,YGRKKRRQRRR,1
+TAT-lyophiliosomes,Caco-2 cells,Lyophiliosomes and FITC labelled,25369131,87.0,% Positive cells,25 µg/ml,1h,,Flow cytometry,Internalization,YGRKKRRQRRR,1
+TAT-lyophiliosomes,SK-OV-3 cells,Lyophiliosomes and FITC labelled,25369131,95.0,% Positive cells,25 µg/ml,1h,,Flow cytometry,Internalization,YGRKKRRQRRR,1
+cTAT-GFP,HeLa cells,eGFP,25521313,80.0,Cellular uptake (%),150 uM,60 min,37ºC,CLSM,Uptake,rRrGrKkRr,1
+TAT-GFP,HeLa cells,eGFP,25521313,1.0,Cellular uptake (%),150 uM,60 min,37ºC,CLSM,Uptake,rRrGrKkRr,0
+CS-Lin-Pen,HEK293 cells,FITC labeled CS-Lin,24083483,85.0,% Transfection,,4h,37ºC,Flow cytometry,Transfection,RQIKIWFQNRRMKWKKGG,1
+CS-Lin-Pen,CHO cells,FITC labeled CS-Lin,24083483,60.0,% Transfection,,4h,37ºC,Flow cytometry,Transfection,RQIKIWFQNRRMKWKKGG,1
+CS-Lin-Pen,Human cervical adenocarcinoma,FITC labeled CS-Lin,24083483,55.0,% Transfection,,4h,37ºC,Flow cytometry,Transfection,RQIKIWFQNRRMKWKKGG,1
+PC-CC9/miRNA,Panc-1,miRNA,23298779,78.08,Cellular uptake (%),0.15 uM,2h,,Flow cytometry,Uptake,CRGDKGPDC,1
+PC-CC9/miRNA,293T cells,miRNA,23298779,51.07,Cellular uptake (%),0.15 uM,2h,,Flow cytometry,Uptake,CRGDKGPDC,1
+Tm3+-DOTA-CAT,SN56 cells,MRI probe [DOTA-caged metal ion (TmÃ¼?)],23281285,19.0,% Positive cells,5 uM,30 min,37ºC,CLSM,Uptake,GRKKRRQRRR,1
+TAT-EGFP,The mouse macrophage J774 A.1 cells,eGFP,24746937,79.2,% Positive cells,10 umol/L,1h,37ºC,Flow cytometry,Uptake,YGRKKRRQRRR,1
+LMWP-EGFP,The mouse macrophage J774 A.1 cells,eGFP,24746937,98.8,% Positive cells,10 umol/L,1h,37ºC,Flow cytometry,Uptake,GSVSRRRRRRGGRRRR,1
+KW,MEF cells,Trehalose,24583082,86.0,% Positive cells,100 uM,4h,37ºC,Flow cytometry,Uptake,KRKRWHW,1
+LMWP-TAZ,Cultured Human Dental Pulp Stem Cells (hDPSCs),TAZ,21990606,100.0,% Positive cells,500 nM,30 min,,Flow cytometry,Transduction,VSRRRRRRGGRRRR,1
+S6KR,CHO-K1 cells,Plasmid DNA,21996011,15.0,Mean Fluorescence intensity / % FITC Positive cells,Charge ratio = 10,4h,37ºC,Flow cytometry,Uptake,LLHILRRSIRKQAHAIRK,1
+PenArg,HEK293T cells,Plasmid DNA,22281502,5.0,Cellular uptake (%),charge ratio = 2,2h,,Flow cytometry,Transfection,RQIRIWFQNRRMRWRR,1
+PenArg-Cys,HEK293T cells,Plasmid DNA,22281502,38.0,Cellular uptake (%),charge ratio = 2,2h,,Flow cytometry,Transfection,RQIRIWFQNRRMRWRRC,1
+EB1,HEK293T cells,Plasmid DNA,22281502,48.0,Cellular uptake (%),charge ratio = 2,2h,,Flow cytometry,Transfection,LIRLWSHLIHIWFQNRRLKWKKK,1
+EB1-Cys,HEK293T cells,Plasmid DNA,22281502,49.0,Cellular uptake (%),charge ratio = 2,2h,,Flow cytometry,Transfection,LIRLWSHLIHIWFQNRRLKWKKKC,1
+R8,,Alexa600,22285548,378.0,Relative fluorescence (%),3 nmol,24h,,CLSM,Tumor accumulation,RRRRRRRRGC,1
+r12,,Alexa600,22285548,424.0,Relative fluorescence (%),3 nmol,24h,,CLSM,Tumor accumulation,rrrrrrrrrrrrGC,1
+RV24,T98G cell,b-galactosidase and eGFP,22326265,82.46,% Positive cells,Molar ratio 50 (v/w) or (w/w) eGFP,4h,,Flow cytometry,Transduction,RRRRRRRRRGPGVTWTPQAWFQWV,1
+RV24,HepG2 cells,b-galactosidase and eGFP,22326265,78.85,% Positive cells,Molar ratio 50 (v/w) or (w/w) eGFP,4h,,Flow cytometry,Transduction,RRRRRRRRRGPGVTWTPQAWFQWV,1
+RV24,HeLa cells,b-galactosidase and eGFP,22326265,74.79,% Positive cells,Molar ratio 50 (v/w) or (w/w) eGFP,4h,,Flow cytometry,Transduction,RRRRRRRRRGPGVTWTPQAWFQWV,1
+CADY-1,HeLa cells,Doxorubicin,22688249,63.0,% Positive cells,10 uM,1h,,HPCL-analysis,Penetration efficiencies,GLWWKAWWKAWWKSLWWRKRKRKA,1
+P1,HeLa cells,FITC,25459448,112.5,Mean Fluorescence (% of positive control TAT as 100 %),10 uM,1h,37ºC,Flow cytometry,Uptake,KKKKKKNKKLQQRGD,1
+P2,HeLa cells,FITC,25459448,20.8,Mean Fluorescence (% of positive control TAT as 100 %),10 uM,1h,37ºC,Flow cytometry,Uptake,RGDGPRRRPRKRRGR,1
+P3,HeLa cells,FITC,25459448,166.0,Mean Fluorescence (% of positive control TAT as 100 %),10 uM,1h,37ºC,Flow cytometry,Uptake,RRRQKRIVVRRRLIR,1
+P4,HeLa cells,FITC,25459448,100.0,Mean Fluorescence (% of positive control TAT as 100 %),10 uM,1h,37ºC,Flow cytometry,Uptake,RRVWRRYRRQRWCRR,1
+P5,HeLa cells,FITC,25459448,75.0,Mean Fluorescence (% of positive control TAT as 100 %),10 uM,1h,37ºC,Flow cytometry,Uptake,RRARRPRRLRPAPGR,1
+P6,HeLa cells,FITC,25459448,208.3,Mean Fluorescence (% of positive control TAT as 100 %),10 uM,1h,37ºC,Flow cytometry,Uptake,LLRARWRRRRSRRFR,1
+P7,HeLa cells,FITC,25459448,83.3,Mean Fluorescence (% of positive control TAT as 100 %),10 uM,1h,37ºC,Flow cytometry,Uptake,RGPRRQPRRHRRPRR,1
+P8,HeLa cells,FITC,25459448,950.0,Mean Fluorescence (% of positive control TAT as 100 %),10 uM,1h,37ºC,Flow cytometry,Uptake,RRWRRWNRFNRRRCR,1
+Tat,HeLa cells,FITC,25459448,100.0,Mean Fluorescence (% of positive control TAT as 100 %),10 uM,1h,37ºC,Flow cytometry,Uptake,GRKKRRQRRRPPQ,1
+PolyR,,Carboxyfluorescein,25894337,70.0,% Average area uptake,100 uM,,,Immunohistochemistry,Penetration,RRRRRRRRR,1
+Antp,,Carboxyfluorescein,25894337,0.0,% Average area uptake,100 uM,,,Immunohistochemistry,Penetration,RQIKIWFQNRRMKWKK,0
+Tat(49-57),,Carboxyfluorescein,25894337,27.0,% Average area uptake,100 uM,,,Immunohistochemistry,Penetration,RKKRRQRRR,1
+Trans,,Carboxyfluorescein,25894337,70.0,% Average area uptake,100 uM,,,Immunohistochemistry,Penetration,GWTLNSAGYLLGKINLKALAALAKKIL,1
+CendRP,,Carboxyfluorescein,25894337,0.0,% Average area uptake,100 uM,,,Immunohistochemistry,Penetration,RPARPAR,0
+R6,HeLa cells,FITC,25654426,24.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,BRRRRRR,1
+R7,HeLa cells,FITC,25654426,44.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,BRRRRRRR,1
+R8,HeLa cells,FITC,25654426,72.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,BRRRRRRRR,1
+R9,HeLa cells,FITC,25654426,100.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,Ahx-RRRRRRRRR,1
+Cyc-R4,HeLa cells,FITC,25654426,12.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-[KRRRRE],1
+Cyc-R6,HeLa cells,FITC,25654426,26.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-[KRRRRRRE],1
+Cyc-R7,HeLa cells,FITC,25654426,42.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-[KRRRRRRRE],1
+Cyc-R8,HeLa cells,FITC,25654426,124.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-[KRRRRRRRRE],1
+Cyc-R9,HeLa cells,FITC,25654426,148.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-[KRRRRRRRRRE],1
+Cyc-r7,HeLa cells,FITC,25654426,42.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-[KrrrrrrrE],1
+Cyc-r8,HeLa cells,FITC,25654426,64.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-[KrrrrrrrrE],1
+Cyc-r9,HeLa cells,FITC,25654426,70.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-[KrrrrrrrrE],1
+Bicyc-0-R6,HeLa cells,FITC,25654426,17.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-[ERRRK]-[KRRRE],1
+Bicyc-1-R6,HeLa cells,FITC,25654426,20.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-[ERRRK]-?A-[KRRRE],1
+Bicyc-2-R6,HeLa cells,FITC,25654426,33.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-[ERRRK]-(?A)2-[KRRRE],1
+Bicyc-3-R6,HeLa cells,FITC,25654426,30.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-[ERRRK]-(?A)3-[KRRRE],1
+Cyc-R3-R4,HeLa cells,FITC,25654426,66.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-RRRR-[KRRRE],1
+Cyc-R4-R3,HeLa cells,FITC,25654426,95.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-RRR-[KRRRRE],1
+Cyc-R5-R2,HeLa cells,FITC,25654426,75.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-RR-[KRRRRRE],1
+Cyc-R6-R1,HeLa cells,FITC,25654426,72.0,Relative Mean Fluorescence intensity (%),5 mM,,,Flow cytometry,Uptake,?A-R[KRRRRRRE],1
+TAT,HeLa cells,Carboxyfluorescein,34504427,32.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,GRKKRRQRRRPPQ,1
+AKIP1,HeLa cells,Carboxyfluorescein,34504427,38.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,VLERAKRRAV,1
+CASC3,HeLa cells,Carboxyfluorescein,34504427,54.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,PDDIKPRRIRKPRY,1
+CCNL2,HeLa cells,Carboxyfluorescein,34504427,2.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,NTKRRLEGAKKA,0
+DAPK1,HeLa cells,Carboxyfluorescein,34504427,9.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,AAKFIKKRRTKSS,1
+ING4,HeLa cells,Carboxyfluorescein,34504427,4.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,TQKEKKAARARSK,0
+DMAP1,HeLa cells,Carboxyfluorescein,34504427,10.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,RKRRESASSSSSVKKAKKP,1
+VP8,HeLa cells,Carboxyfluorescein,34504427,28.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,KRKGRLRSKGKK,1
+NOP53,HeLa cells,Carboxyfluorescein,34504427,8.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,AEADKPRRLGRLK,1
+AHRR,HeLa cells,Carboxyfluorescein,34504427,38.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,GECTYAGRKRRRPLQK,1
+CUL4B,HeLa cells,Carboxyfluorescein,34504427,16.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,TPPTSAKKRKL,1
+FBXO32,HeLa cells,Carboxyfluorescein,34504427,4.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,VAAKKRKKDML,0
+TAT,PC3 cells,Carboxyfluorescein,34504427,64.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,GRKKRRQRRRPPQ,1
+AKIP1,PC3 cells,Carboxyfluorescein,34504427,60.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,VLERAKRRAV,1
+CASC3,PC3 cells,Carboxyfluorescein,34504427,74.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,PDDIKPRRIRKPRY,1
+CCNL2,PC3 cells,Carboxyfluorescein,34504427,6.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,NTKRRLEGAKKA,1
+DAPK1,PC3 cells,Carboxyfluorescein,34504427,18.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,AAKFIKKRRTKSS,1
+ING4,PC3 cells,Carboxyfluorescein,34504427,6.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,TQKEKKAARARSK,1
+DMAP1,PC3 cells,Carboxyfluorescein,34504427,22.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,RKRRESASSSSSVKKAKKP,1
+VP8,PC3 cells,Carboxyfluorescein,34504427,46.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,KRKGRLRSKGKK,1
+NOP53,PC3 cells,Carboxyfluorescein,34504427,18.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,AEADKPRRLGRLK,1
+AHRR,PC3 cells,Carboxyfluorescein,34504427,54.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,GECTYAGRKRRRPLQK,1
+CUL4B,PC3 cells,Carboxyfluorescein,34504427,21.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,TPPTSAKKRKL,1
+FBXO32,PC3 cells,Carboxyfluorescein,34504427,10.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,VAAKKRKKDML,1
+TAT,U87 cells,Carboxyfluorescein,34504427,32.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,GRKKRRQRRRPPQ,1
+AKIP1,U87 cells,Carboxyfluorescein,34504427,40.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,VLERAKRRAV,1
+CASC3,U87 cells,Carboxyfluorescein,34504427,49.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,PDDIKPRRIRKPRY,1
+CCNL2,U87 cells,Carboxyfluorescein,34504427,3.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,NTKRRLEGAKKA,0
+DAPK1,U87 cells,Carboxyfluorescein,34504427,24.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,AAKFIKKRRTKSS,1
+ING4,U87 cells,Carboxyfluorescein,34504427,11.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,TQKEKKAARARSK,1
+DMAP1,U87 cells,Carboxyfluorescein,34504427,32.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,RKRRESASSSSSVKKAKKP,1
+VP8,U87 cells,Carboxyfluorescein,34504427,28.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,KRKGRLRSKGKK,1
+NOP53,U87 cells,Carboxyfluorescein,34504427,10.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,AEADKPRRLGRLK,1
+AHRR,U87 cells,Carboxyfluorescein,34504427,36.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,GECTYAGRKRRRPLQK,1
+CUL4B,U87 cells,Carboxyfluorescein,34504427,18.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,TPPTSAKKRKL,1
+FBXO32,U87 cells,Carboxyfluorescein,34504427,3.0,% Positive cells,10 uM,2h,,Flow cytometry,Internalization,VAAKKRKKDML,0
+RALA,HeLa cells,pCMV-EGFP plasmid DNA,34443195,61.0,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEARLARALARALARHLARALARALRACEA,1
+HALA1,HeLa cells,pCMV-EGFP plasmid DNA,34443195,45.0,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEAHLAHALARALARHLARALARALRACEA,1
+HALA2,HeLa cells,pCMV-EGFP plasmid DNA,34443195,62.0,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEARLARALARALARHLARALAHALHACEA,1
+HALA3,HeLa cells,pCMV-EGFP plasmid DNA,34443195,27.0,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEAHLAHALAHALARHLARALARALRACEA,1
+HALA4,HeLa cells,pCMV-EGFP plasmid DNA,34443195,40.0,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEARLARALARALARHLAHALAHALHACEA,1
+RALA,HEK293T cells,pCMV-EGFP plasmid DNA,34443195,41.5,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEARLARALARALARHLARALARALRACEA,1
+HALA1,HEK293T cells,pCMV-EGFP plasmid DNA,34443195,39.0,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEAHLAHALARALARHLARALARALRACEA,1
+HALA2,HEK293T cells,pCMV-EGFP plasmid DNA,34443195,56.5,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEARLARALARALARHLARALAHALHACEA,1
+HALA3,HEK293T cells,pCMV-EGFP plasmid DNA,34443195,21.0,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEAHLAHALAHALARHLARALARALRACEA,1
+HALA4,HEK293T cells,pCMV-EGFP plasmid DNA,34443195,55.0,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEARLARALARALARHLAHALAHALHACEA,1
+RALA,A549 cells,pCMV-EGFP plasmid DNA,34443195,13.5,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEARLARALARALARHLARALARALRACEA,1
+HALA1,A549 cells,pCMV-EGFP plasmid DNA,34443195,10.0,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEAHLAHALARALARHLARALARALRACEA,1
+HALA2,A549 cells,pCMV-EGFP plasmid DNA,34443195,25.5,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEARLARALARALARHLARALAHALHACEA,1
+HALA3,A549 cells,pCMV-EGFP plasmid DNA,34443195,4.0,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEAHLAHALAHALARHLARALARALRACEA,0
+HALA4,A549 cells,pCMV-EGFP plasmid DNA,34443195,8.5,% Positive cells,N/P ratio 6,6h,37ºC,Flow cytometry,Transfection,WEARLARALARALARHLAHALAHALHACEA,1
+PDL,SH-SY5Y cells,EGFP pDNA,34361142,31.1,% Transfection,plasmid/PDL ratio 1:4,48h,37ºC,Flow cytometry,Transfection,kkk,1
+PDL,HeLa cells,EGFP pDNA,34361142,1.33,% Transfection,plasmid/PDL ratio 1:4,48 h,37ºC,Flow cytometry,Transfection,kkk,0
+PDL,NIH-3T3 cells,EGFP pDNA,34361142,0.16,% Transfection,plasmid/PDL ratio 1:4,48 h,37ºC,Flow cytometry,Transfection,kkk,0
+TAT,HEK293 cells,EDB_S11 (protein fusions),30135446,22.0,% Green viable cells,40 uM,1h,37ºC,Flow cytometry,Uptake (Endosomal escape),GRKKRRQRRRPPQRKC,1
+84,HEK293 cells,EDB_S11 (protein fusions),30135446,36.0,% Green viable cells,40 uM,1h,37ºC,Flow cytometry,Uptake (Endosomal escape),RKQKSLQTKLAENPPVPRKKRQSRPRWKQWLQK,1
+1746,HEK293 cells,EDB_S11 (protein fusions),30135446,72.0,% Green viable cells,40 uM,1h,37ºC,Flow cytometry,Uptake (Endosomal escape),PLKPKKPKTQEKKKKQPPKPKKPKTQEKKKKQPPKPKR,1
+HR9,A549 cells,FITC,26942714,94.0,% Positive cells,10 uM,1h,37ºC,Flow cytometry,Internalization,CHHHHHRRRRRRRRRHHHHHC,1
+Lfcin,A549 cells,FITC,26942714,94.0,% Positive cells,10 uM,1h,37ºC,Flow cytometry,Internalization,CRRWQWRMKKLGC,1
+L12,A549 cells,FITC,26942714,97.0,% Positive cells,10 uM,1h,37ºC,Flow cytometry,Internalization,FKCRRWQWRMKK,1
+L11,A549 cells,FITC,26942714,93.0,% Positive cells,10 uM,1h,37ºC,Flow cytometry,Internalization,KCRRWQWRMKK,1
+L9,A549 cells,FITC,26942714,77.0,% Positive cells,10 uM,1h,37ºC,Flow cytometry,Internalization,RRWQWRMKK,1
+L6,A549 cells,FITC,26942714,98.0,% Positive cells,10 uM,1h,37ºC,Flow cytometry,Internalization,RRWQWR,1
+L5a,A549 cells,FITC,26942714,95.5,% Positive cells,10 uM,1h,37ºC,Flow cytometry,Internalization,RRWQW,1
+L5b,A549 cells,FITC,26942714,25.0,% Positive cells,10 uM,1h,37ºC,Flow cytometry,Internalization,RWQWR,1
+L4,A549 cells,FITC,26942714,9.0,% Positive cells,10 uM,1h,37ºC,Flow cytometry,Internalization,RWQW,1
+TAT,N2a cells,BoNTA,35223792,158.75,Relative fluorescence (%),100 nM,2h,37ºC,Immunofluorescence analysis,Cellular uptake,GRKKRRQRRRPQ,1
+Pep1,N2a cells,BoNTA,35223792,117.5,Relative fluorescence (%),100 nM,2h,37ºC,Immunofluorescence analysis,Cellular uptake,KETWWETWWTEWSQPKKKRKV,1
+ZFP3 (N-Terminal),N2a cells,BoNTA,35223792,110.0,Relative fluorescence (%),100 nM,2h,37ºC,Immunofluorescence analysis,Cellular uptake,EKPYKCPECGKSFSASAALVAHQRTHTGEKPYKCPECGKSFSASAALVAHQRTHTGEKPYKCPECGKSFSASAALVAHQRTHTG,1
+ZFP3 (C-Terminal),N2a cells,BoNTA,35223792,120.0,Relative fluorescence (%),100 nM,2h,37ºC,Immunofluorescence analysis,Cellular uptake,EKPYKCPECGKSFSASAALVAHQRTHTGEKPYKCPECGKSFSASAALVAHQRTHTGEKPYKCPECGKSFSASAALVAHQRTHTG,1
+ZFP3 (N and C-Terminal),N2a cells,BoNTA,35223792,177.5,Relative fluorescence (%),100 nM,2h,37ºC,Immunofluorescence analysis,Cellular uptake,EKPYKCPECGKSFSASAALVAHQRTHTGEKPYKCPECGKSFSASAALVAHQRTHTGEKPYKCPECGKSFSASAALVAHQRTHTG,1
+Crotamine,P. falciparum-infected erythrocytes,Cy3-labeled Crotamine,35074306,46.0,% Internalization,5 uM,30 min,37ºC,Flow cytometry,Internalization,YKQCHKKGGHCFPKEKICLPPSSDFGKMDCRWRWKCCKKGSG,1
+KFE8-Tat,BMDC,FITC,32686113,10.0,% Positive cells,0.5uM,4h,37ºC,Flow cytometry,Nanofiber uptake,FKFEFKFESGSGSG-RKKRRQRRRPQ,1
+KFE8-Tat,BMDC,FITC,32686113,25.0,% Positive cells,1uM,4h,37ºC,Flow cytometry,Nanofiber uptake,FKFEFKFESGSGSG-RKKRRQRRRPQ,1
+KFE8-Tat,BMDC,FITC,32686113,35.0,% Positive cells,2uM,4h,37ºC,Flow cytometry,Nanofiber uptake,FKFEFKFESGSGSG-RKKRRQRRRPQ,1
+PAS-pHK,MCF7 cells,miR-126,32491855,95.0,% Internalization,25 uM,2h,37ºC,Flow cytometry,Cellular uptake,GKPILFF,1
+R2W4R2,MCF7 cells,FITC,32116040,25.0,Cell fluorescence (%),5uM,1h,37ºC,Flow cytometry,Cellular uptake,RRWWWWRR,1
+R2W4R2,MCF7 cells,FITC,32116040,72.0,Cell fluorescence (%),10uM,1h,37ºC,Flow cytometry,Cellular uptake,RRWWWWRR,1
+R2W4R2,MCF7 cells,FITC,32116040,70.0,Cell fluorescence (%),15uM,1h,37ºC,Flow cytometry,Cellular uptake,RRWWWWRR,1
+R2W4R2,MCF7 cells,FITC,32116040,93.0,Cell fluorescence (%),25uM,1h,37ºC,Flow cytometry,Cellular uptake,RRWWWWRR,1
+W3R4W3,MCF7 cells,FITC,32116040,2.0,Cell fluorescence (%),5uM,1h,37ºC,Flow cytometry,Cellular uptake,WWWRRRRWWW,0
+W3R4W3,MCF7 cells,FITC,32116040,2.0,Cell fluorescence (%),10uM,1h,37ºC,Flow cytometry,Cellular uptake,WWWRRRRWWW,0
+W3R4W3,MCF7 cells,FITC,32116040,8.0,Cell fluorescence (%),15uM,1h,37ºC,Flow cytometry,Cellular uptake,WWWRRRRWWW,1
+W3R4W3,MCF7 cells,FITC,32116040,12.0,Cell fluorescence (%),25uM,1h,37ºC,Flow cytometry,Cellular uptake,WWWRRRRWWW,1
+R2W4R2-E12,MCF7 cells,FITC,32116040,10.0,Cell fluorescence (%),5uM,1h,37ºC,Flow cytometry,Cellular uptake,RRWWWWRR-E12,1
+R2W4R2-E12,MCF7 cells,FITC,32116040,18.0,Cell fluorescence (%),10uM,1h,37ºC,Flow cytometry,Cellular uptake,RRWWWWRR-E12,1
+R2W4R2-E12,MCF7 cells,FITC,32116040,41.0,Cell fluorescence (%),15uM,1h,37ºC,Flow cytometry,Cellular uptake,RRWWWWRR-E12,1
+R2W4R2-E12,MCF7 cells,FITC,32116040,45.0,Cell fluorescence (%),25uM,1h,37ºC,Flow cytometry,Cellular uptake,RRWWWWRR-E12,1
+W3R4W3-E12,MCF7 cells,FITC,32116040,3.0,Cell fluorescence (%),5uM,1h,37ºC,Flow cytometry,Cellular uptake,WWWRRRRWWW-E12,0
+W3R4W3-E12,MCF7 cells,FITC,32116040,2.0,Cell fluorescence (%),10uM,1h,37ºC,Flow cytometry,Cellular uptake,WWWRRRRWWW-E12,0
+W3R4W3-E12,MCF7 cells,FITC,32116040,4.0,Cell fluorescence (%),15uM,1h,37ºC,Flow cytometry,Cellular uptake,WWWRRRRWWW-E12,0
+W3R4W3-E12,MCF7 cells,FITC,32116040,23.0,Cell fluorescence (%),25uM,1h,37ºC,Flow cytometry,Cellular uptake,WWWRRRRWWW-E12,1
+TAT,HeLa cells,FITC,34101293,70.0,Cellular uptake (%),10uM,1h,4ºC,Flow cytometry,Cellular uptake,YGRKKRRQRRR,1
+TAT,HeLa cells,FITC,34101293,100.0,Cellular uptake (%),10uM,1h,37ºC,Flow cytometry,Cellular uptake,YGRKKRRQRRR,1
+HNLS-3,HeLa cells,FITC,34101293,20.0,Cellular uptake (%),10uM,1h,4ºC,Flow cytometry,Cellular uptake,PFVYLIPKKKRKVHHHHHHGC,1
+HNLS-3,HeLa cells,FITC,34101293,100.0,Cellular uptake (%),10uM,1h,37ºC,Flow cytometry,Cellular uptake,PFVYLIPKKKRKVHHHHHHGC,1
+Mel-lip,bEnd.3 cells,DiI,32561686,5.0,Cellular uptake (%),100nM,0.1h,,Fluorescence spectroscopy,Cellular uptake,GIGAVLKVLTTGLPALISWIKRKRQ,1
+Mel-lip,bEnd.3 cells,DiI,32561686,10.0,Cellular uptake (%),100nM,0.25h,,Fluorescence spectroscopy,Cellular uptake,GIGAVLKVLTTGLPALISWIKRKRQ,1
+Mel-lip,bEnd.3 cells,DiI,32561686,20.0,Cellular uptake (%),100nM,0.5h,,Fluorescence spectroscopy,Cellular uptake,GIGAVLKVLTTGLPALISWIKRKRQ,1
+Mel-lip,bEnd.3 cells,DiI,32561686,39.0,Cellular uptake (%),100nM,1h,,Fluorescence spectroscopy,Cellular uptake,GIGAVLKVLTTGLPALISWIKRKRQ,1
+Mel-lip,bEnd.3 cells,DiI,32561686,70.0,Cellular uptake (%),100nM,4h,,Fluorescence spectroscopy,Cellular uptake,GIGAVLKVLTTGLPALISWIKRKRQ,1
+Mel-Tf-lip,bEnd.3 cells,DiI,32561686,5.0,Cellular uptake (%),100nM,0.1h,,Fluorescence spectroscopy,Cellular uptake,GIGAVLKVLTTGLPALISWIKRKRQ,1
+Mel-Tf-lip,bEnd.3 cells,DiI,32561686,18.0,Cellular uptake (%),100nM,0.25h,,Fluorescence spectroscopy,Cellular uptake,GIGAVLKVLTTGLPALISWIKRKRQ,1
+Mel-Tf-lip,bEnd.3 cells,DiI,32561686,25.0,Cellular uptake (%),100nM,0.5h,,Fluorescence spectroscopy,Cellular uptake,GIGAVLKVLTTGLPALISWIKRKRQ,1
+Mel-Tf-lip,bEnd.3 cells,DiI,32561686,37.0,Cellular uptake (%),100nM,1h,,Fluorescence spectroscopy,Cellular uptake,GIGAVLKVLTTGLPALISWIKRKRQ,1
+Mel-Tf-lip,bEnd.3 cells,DiI,32561686,70.0,Cellular uptake (%),100nM,4h,,Fluorescence spectroscopy,Cellular uptake,GIGAVLKVLTTGLPALISWIKRKRQ,1
+kFGF-lip,bEnd.3 cells,DiI,32561686,10.0,Cellular uptake (%),100nM,0.1h,,Fluorescence spectroscopy,Cellular uptake,AAVALLPAVLLALLAP,1
+kFGF-lip,bEnd.3 cells,DiI,32561686,17.0,Cellular uptake (%),100nM,0.25h,,Fluorescence spectroscopy,Cellular uptake,AAVALLPAVLLALLAP,1
+kFGF-lip,bEnd.3 cells,DiI,32561686,18.0,Cellular uptake (%),100nM,0.5h,,Fluorescence spectroscopy,Cellular uptake,AAVALLPAVLLALLAP,1
+kFGF-lip,bEnd.3 cells,DiI,32561686,39.0,Cellular uptake (%),100nM,1h,,Fluorescence spectroscopy,Cellular uptake,AAVALLPAVLLALLAP,1
+kFGF-lip,bEnd.3 cells,DiI,32561686,72.0,Cellular uptake (%),100nM,4h,,Fluorescence spectroscopy,Cellular uptake,AAVALLPAVLLALLAP,1
+kFGF-Tf-lip,bEnd.3 cells,DiI,32561686,8.0,Cellular uptake (%),100nM,0.1h,,Fluorescence spectroscopy,Cellular uptake,AAVALLPAVLLALLAP,1
+kFGF-Tf-lip,bEnd.3 cells,DiI,32561686,18.0,Cellular uptake (%),100nM,0.25h,,Fluorescence spectroscopy,Cellular uptake,AAVALLPAVLLALLAP,1
+kFGF-Tf-lip,bEnd.3 cells,DiI,32561686,22.0,Cellular uptake (%),100nM,0.5h,,Fluorescence spectroscopy,Cellular uptake,AAVALLPAVLLALLAP,1
+kFGF-Tf-lip,bEnd.3 cells,DiI,32561686,40.0,Cellular uptake (%),100nM,1h,,Fluorescence spectroscopy,Cellular uptake,AAVALLPAVLLALLAP,1
+kFGF-Tf-lip,bEnd.3 cells,DiI,32561686,72.0,Cellular uptake (%),100nM,4h,,Fluorescence spectroscopy,Cellular uptake,AAVALLPAVLLALLAP,1
+PasR8-lip,bEnd.3 cells,DiI,32561686,4.0,Cellular uptake (%),100nM,0.1h,,Fluorescence spectroscopy,Cellular uptake,FFLIPKGRRRRRRRRGC,0
+PasR8-lip,bEnd.3 cells,DiI,32561686,7.0,Cellular uptake (%),100nM,0.25h,,Fluorescence spectroscopy,Cellular uptake,FFLIPKGRRRRRRRRGC,1
+PasR8-lip,bEnd.3 cells,DiI,32561686,30.0,Cellular uptake (%),100nM,0.5h,,Fluorescence spectroscopy,Cellular uptake,FFLIPKGRRRRRRRRGC,1
+PasR8-lip,bEnd.3 cells,DiI,32561686,42.0,Cellular uptake (%),100nM,1h,,Fluorescence spectroscopy,Cellular uptake,FFLIPKGRRRRRRRRGC,1
+PasR8-lip,bEnd.3 cells,DiI,32561686,67.0,Cellular uptake (%),100nM,4h,,Fluorescence spectroscopy,Cellular uptake,FFLIPKGRRRRRRRRGC,1
+PasR8-Tf-lip,bEnd.3 cells,DiI,32561686,4.0,Cellular uptake (%),100nM,0.1h,,Fluorescence spectroscopy,Cellular uptake,FFLIPKGRRRRRRRRGC,0
+PasR8-Tf-lip,bEnd.3 cells,DiI,32561686,7.0,Cellular uptake (%),100nM,0.25h,,Fluorescence spectroscopy,Cellular uptake,FFLIPKGRRRRRRRRGC,1
+PasR8-Tf-lip,bEnd.3 cells,DiI,32561686,28.0,Cellular uptake (%),100nM,0.5h,,Fluorescence spectroscopy,Cellular uptake,FFLIPKGRRRRRRRRGC,1
+PasR8-Tf-lip,bEnd.3 cells,DiI,32561686,40.0,Cellular uptake (%),100nM,1h,,Fluorescence spectroscopy,Cellular uptake,FFLIPKGRRRRRRRRGC,1
+PasR8-Tf-lip,bEnd.3 cells,DiI,32561686,73.0,Cellular uptake (%),100nM,4h,,Fluorescence spectroscopy,Cellular uptake,FFLIPKGRRRRRRRRGC,1
+(KW)4,MCF7 cells,FITC,28933182,85.0,Cell fluorescence (%),10 uM,2h,37ºC,Flow cytometry,Cellular uptake,KWKWKWKW,1
+(KW)4,MCF7 cells,FITC,28933182,90.0,Cell fluorescence (%),25uM,2h,37ºC,Flow cytometry,Cellular uptake,KWKWKWKW,1
+(KW)4,MCF7 cells,FITC,28933182,70.0,Cell fluorescence (%),50uM,2h,37ºC,Flow cytometry,Cellular uptake,KWKWKWKW,1
+(KW)5,MCF7 cells,FITC,28933182,60.0,Cell fluorescence (%),10 uM,2h,37ºC,Flow cytometry,Cellular uptake,KWKWKWKWKW,1
+(KW)5,MCF7 cells,FITC,28933182,90.0,Cell fluorescence (%),25uM,2h,37ºC,Flow cytometry,Cellular uptake,KWKWKWKWKW,1
+(KW)5,MCF7 cells,FITC,28933182,75.0,Cell fluorescence (%),50uM,2h,37ºC,Flow cytometry,Cellular uptake,KWKWKWKWKW,1
+K2W4K2,MCF7 cells,FITC,28933182,80.0,Cell fluorescence (%),10 uM,2h,37ºC,Flow cytometry,Cellular uptake,KKWWWWKK,1
+K2W4K2,MCF7 cells,FITC,28933182,90.0,Cell fluorescence (%),25uM,2h,37ºC,Flow cytometry,Cellular uptake,KKWWWWKK,1
+K2W4K2,MCF7 cells,FITC,28933182,85.0,Cell fluorescence (%),50uM,2h,37ºC,Flow cytometry,Cellular uptake,KKWWWWKK,1
+K3W4K3,MCF7 cells,FITC,28933182,80.0,Cell fluorescence (%),10 uM,2h,37ºC,Flow cytometry,Cellular uptake,KKKWWWWKKK,1
+K3W4K3,MCF7 cells,FITC,28933182,90.0,Cell fluorescence (%),25uM,2h,37ºC,Flow cytometry,Cellular uptake,KKKWWWWKKK,1
+K3W4K3,MCF7 cells,FITC,28933182,90.0,Cell fluorescence (%),50uM,2h,37ºC,Flow cytometry,Cellular uptake,KKKWWWWKKK,1
+W2K4W2,MCF7 cells,FITC,28933182,35.0,Cell fluorescence (%),10 uM,2h,37ºC,Flow cytometry,Cellular uptake,WWKKKKWW,1
+W2K4W2,MCF7 cells,FITC,28933182,20.0,Cell fluorescence (%),25uM,2h,37ºC,Flow cytometry,Cellular uptake,WWKKKKWW,1
+W2K4W2,MCF7 cells,FITC,28933182,30.0,Cell fluorescence (%),50uM,2h,37ºC,Flow cytometry,Cellular uptake,WWKKKKWW,1
+W3K4W3,MCF7 cells,FITC,28933182,80.0,Cell fluorescence (%),10 uM,2h,37ºC,Flow cytometry,Cellular uptake,WWWKKKKWWW,1
+W3K4W3,MCF7 cells,FITC,28933182,90.0,Cell fluorescence (%),25uM,2h,37ºC,Flow cytometry,Cellular uptake,WWWKKKKWWW,1
+W3K4W3,MCF7 cells,FITC,28933182,85.0,Cell fluorescence (%),50uM,2h,37ºC,Flow cytometry,Cellular uptake,WWWKKKKWWW,1
+ENCP,Caco-2 cells,Insulin,29518466,50.0,Cellular uptake (%),,2h,37ºC,Liquid chromatography,Cellular uptake,RRRRRRRR,1
+NCP,Caco-2 cells,Insulin,29518466,80.0,Cellular uptake (%),,2h,37ºC,Liquid chromatography,Cellular uptake,RRRRRRRR,1
+Insulin+R8,Caco-2 cells,Insulin,29518466,0.0,Cellular uptake (%),,2h,37ºC,Liquid chromatography,Cellular uptake,RRRRRRRR,0
+[RW]3,A549 cells,FITC,28694765,32.0,Cell fluorescence (%),10uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRW,1
+[RW]3,A549 cells,FITC,28694765,63.0,Cell fluorescence (%),25uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRW,1
+[RW]3,A549 cells,FITC,28694765,90.0,Cell fluorescence (%),50uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRW,1
+[RW]4,A549 cells,FITC,28694765,57.0,Cell fluorescence (%),10uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRW,1
+[RW]4,A549 cells,FITC,28694765,79.0,Cell fluorescence (%),25uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRW,1
+[RW]4,A549 cells,FITC,28694765,80.0,Cell fluorescence (%),50uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRW,1
+[RW]5,A549 cells,FITC,28694765,35.0,Cell fluorescence (%),10uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRWRW,1
+[RW]5,A549 cells,FITC,28694765,49.0,Cell fluorescence (%),25uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRWRW,1
+[RW]5,A549 cells,FITC,28694765,68.0,Cell fluorescence (%),50uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRWRW,1
+[RW]6,A549 cells,FITC,28694765,60.0,Cell fluorescence (%),10uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRWRWRW,1
+[RW]6,A549 cells,FITC,28694765,71.0,Cell fluorescence (%),25uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRWRWRW,1
+[RW]6,A549 cells,FITC,28694765,79.0,Cell fluorescence (%),50uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRWRWRW,1
+R5W3R4,A549 cells,FITC,28694765,47.0,Cell fluorescence (%),10uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRWWWRRRR,1
+R5W3R4,A549 cells,FITC,28694765,59.0,Cell fluorescence (%),25uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRWWWRRRR,1
+R5W3R4,A549 cells,FITC,28694765,88.0,Cell fluorescence (%),50uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRWWWRRRR,1
+REDV-TAT-NLS-H0,HUVEC cells,Cy5-oligonucleotide,29580233,23.0,Cellular uptake (%),,4h,,Flow cytometry,Cellular uptake,REDVYGRKKRRQRRRPKKKRKVHHHH,1
+REDV-TAT-NLS-H4,HUVEC cells,Cy5-oligonucleotide,29580233,30.0,Cellular uptake (%),,4h,,Flow cytometry,Cellular uptake,REDVYGRKKRRQRRRPKKKRKVHHHHHHHH,1
+REDV-TAT-NLS-H8,HUVEC cells,Cy5-oligonucleotide,29580233,40.0,Cellular uptake (%),,4h,,Flow cytometry,Cellular uptake,REDVYGRKKRRQRRRPKKKRKVHHHHHHHHHHHH,1
+REDV-TAT-NLS-H12,HUVEC cells,Cy5-oligonucleotide,29580233,88.0,Cellular uptake (%),,4h,,Flow cytometry,Cellular uptake,REDV-YGRKKRRQRRR-PKK-KRKV-HHHHHHHHHHHH,1
+CVP1-N2,HCT116 cells,FITC,33141296,10.0,Relative internalization (%),0.1uM,,37ºC,Flow cytometry,Cellular uptake,LKRLRRRYKFRHRRRQRYRRR,1
+CVP1-N2,HCT116 cells,FITC,33141296,75.0,Relative internalization (%),1uM,,37ºC,Flow cytometry,Cellular uptake,LKRLRRRYKFRHRRRQRYRRR,1
+CVP1-N2,HCT116 cells,FITC,33141296,100.0,Relative internalization (%),10uM,,37ºC,Flow cytometry,Cellular uptake,LKRLRRRYKFRHRRRQRYRRR,1
+CVP1-N2,HCT116 cells,FITC,33141296,88.0,Relative internalization (%),10uM,,4ºC,Flow cytometry,Cellular uptake,LKRLRRRYKFRHRRRQRYRRR,1
+I-LCP,HCT116 cells,Radiolabelled Iodine (125I),31445852,10.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,Ac-eeeeeeeeeXPAANVGrrrrrrrrrXk([125I]IB)-NH2,1
+I-NCP,HCT116 cells,Radiolabelled Iodine (125I),31445852,2.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,Ac-eeeeeeeeeXPAACtVGrrrrrrrrrXk([125I]IB)-NH2,0
+LPC,HCT116 cells,FL,31445852,5.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,Ac-eeeeeeeeeXPAANVGrrrrrrrrrXk(FL)-NH2,1
+NCP,HCT116 cells,FL,31445852,7.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,Ac-eeeeeeeeeXPAACtVGrrrrrrrrrXk(FL)-NH2,1
+LCP-r,HCT116 cells,FL,31445852,31.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,Ac-XPAANVGrrrrrrrrrXk(FL)-NH2,1
+NCP-r,HCT116 cells,FL,31445852,33.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,Ac-XPAACtVGrrrrrrrrrXk(FL)-NH2,1
+R9,A549 cells,FITC,27074859,65.0,Relative fraction of positive cells (%),10uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRRRRR,1
+R5W3R4,A549 cells,FITC,27074859,70.0,Relative fraction of positive cells (%),10uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRWWWRRRR,1
+[RW]6,A549 cells,FITC,27074859,72.0,Relative fraction of positive cells (%),10uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRWRWRW,1
+R9,A549 cells,FITC,27074859,73.0,Relative fraction of positive cells (%),25uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRRRRR,1
+R5W3R4,A549 cells,FITC,27074859,80.0,Relative fraction of positive cells (%),25uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRWWWRRRR,1
+[RW]6,A549 cells,FITC,27074859,79.0,Relative fraction of positive cells (%),25uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRWRWRW,1
+R9,A549 cells,FITC,27074859,88.0,Relative fraction of positive cells (%),50uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRRRRR,1
+R5W3R4,A549 cells,FITC,27074859,95.0,Relative fraction of positive cells (%),50uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRWWWRRRR,1
+[RW]6,A549 cells,FITC,27074859,85.0,Relative fraction of positive cells (%),50uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRWRWRW,1
+R9/E9,A549 cells,FITC,27074859,52.0,Relative fraction of positive cells (%),10uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRRRRR-EEEEEEEEE,1
+R5W3R4/E9,A549 cells,FITC,27074859,55.0,Relative fraction of positive cells (%),10uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRWWWRRRR-EEEEEEEEE,1
+[RW]6/E9,A549 cells,FITC,27074859,56.0,Relative fraction of positive cells (%),10uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRWRWRW-EEEEEEEEE,1
+R9/E9,A549 cells,FITC,27074859,72.0,Relative fraction of positive cells (%),25uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRRRRR-EEEEEEEEE,1
+R5W3R4/E9,A549 cells,FITC,27074859,75.0,Relative fraction of positive cells (%),25uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRWWWRRRR-EEEEEEEEE,1
+[RW]6/E9,A549 cells,FITC,27074859,78.0,Relative fraction of positive cells (%),25uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRWRWRW-EEEEEEEEE,1
+R9/E9,A549 cells,FITC,27074859,82.0,Relative fraction of positive cells (%),50uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRRRRR-EEEEEEEEE,1
+R5W3R4/E9,A549 cells,FITC,27074859,85.0,Relative fraction of positive cells (%),50uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RRRRRWWWRRRR-EEEEEEEEE,1
+[RW]6/E9,A549 cells,FITC,27074859,86.0,Relative fraction of positive cells (%),50uM,1.5h,37ºC,Flow cytometry,Cellular uptake,RWRWRWRWRWRW-EEEEEEEEE,1
+SNEDDS F-1,Caco-2 cells,sodium fluorescein,27458781,1.5,Cellular uptake (%),,2h,37ºC,Fluorescent Microscopy,Cellular uptake,RKKRRQRRR-pDNA,0
+SNEDDS F-1,Caco-2 cells,sodium fluorescein,27458781,2.0,Cellular uptake (%),,4h,37ºC,Fluorescent Microscopy,Cellular uptake,RKKRRQRRR-pDNA,0
+SNEDDS F-2,Caco-2 cells,sodium fluorescein,27458781,3.0,Cellular uptake (%),,2h,37ºC,Fluorescent Microscopy,Cellular uptake,RKKRRQRRR-OL-Pdna,0
+SNEDDS F-2,Caco-2 cells,sodium fluorescein,27458781,5.0,Cellular uptake (%),,4h,37ºC,Fluorescent Microscopy,Cellular uptake,RKKRRQRRR-OL-Pdna,1
+R8-CM?CD,MCF7 cells,FITC,32589088,12.0,Mean fluorescence intensity (%),,2h,,CLSM,Cellular uptake,RRRRRRRR-CM?CD,1
+R8-CM?CD,MCF7 cells,FITC,32589088,15.0,Mean fluorescence intensity (%),,6h,,CLSM,Cellular uptake,RRRRRRRR-CM?CD,1
+R8-CM?CD,MCF7 cells,FITC,32589088,35.0,Mean fluorescence intensity (%),,12h,,CLSM,Cellular uptake,RRRRRRRR-CM?CD,1
+A1,HeLa cells,FITC,33355559,100.0,Relative Mean Fluorescence intensity (%),2uM,2h,,Flow cytometry,Cellular uptake,YGRKKRRQRRR,1
+A2,HeLa cells,FITC,33355559,210.0,Relative Mean Fluorescence intensity (%),2uM,2h,,Flow cytometry,Cellular uptake,S5GRKS5RRQRRR,1
+A3,HeLa cells,FITC,33355559,220.0,Relative Mean Fluorescence intensity (%),2uM,2h,,Flow cytometry,Cellular uptake,R8GRKKRRS5RRR,1
+A4,HeLa cells,FITC,33355559,410.0,Relative Mean Fluorescence intensity (%),2uM,2h,,Flow cytometry,Cellular uptake,YGRKS5RRQS5RR,1
+A5,HeLa cells,FITC,33355559,80.0,Relative Mean Fluorescence intensity (%),2uM,2h,,Flow cytometry,Cellular uptake,YGRKERRQKRR,1
+A6,HeLa cells,FITC,33355559,370.0,Relative Mean Fluorescence intensity (%),2uM,2h,,Flow cytometry,Cellular uptake,YGRAS5RRQS5RA,1
+A7,HeLa cells,FITC,33355559,120.0,Relative Mean Fluorescence intensity (%),2uM,2h,,Flow cytometry,Cellular uptake,YGRAS5RRQS5RA,1
+A8,HeLa cells,FITC,33355559,25.0,Relative Mean Fluorescence intensity (%),2uM,2h,,Flow cytometry,Cellular uptake,YGRAS5ARQS5RA,1
+A9,HeLa cells,FITC,33355559,200.0,Relative Mean Fluorescence intensity (%),2uM,2h,,Flow cytometry,Cellular uptake,YGRKR8RRQS5RR,1
+A10,HeLa cells,FITC,33355559,100.0,Relative Mean Fluorescence intensity (%),2uM,2h,,Flow cytometry,Cellular uptake,YGRKR8RRQXRR,1
+A11,HeLa cells,FITC,33355559,90.0,Relative Mean Fluorescence intensity (%),2uM,2h,,Flow cytometry,Cellular uptake,YGRKS5RRQXRR,1
+A3u,HeLa cells,FITC,33355559,80.0,Relative Mean Fluorescence intensity (%),2uM,2h,,Flow cytometry,Cellular uptake,R8GRRKKRRS5RRR,1
+A4u,HeLa cells,FITC,33355559,100.0,Relative Mean Fluorescence intensity (%),2uM,2h,,Flow cytometry,Cellular uptake,YGRKS5RRQS5RR,1
+A6u,HeLa cells,FITC,33355559,90.0,Relative Mean Fluorescence intensity (%),2uM,2h,,Flow cytometry,Cellular uptake,YGRAS5RRQS5RR,1
+C6M3,CHO-K1 cells,siRNA-Cy3 labeled,28349343,90.0,Fluorescent cells (%),,,,Flow cytometry,Cellular uptake,RLWHLLWRLWRRLHRLLR,1
+AntpOVA,Dendritic cells,FITC,27138940,50.0,Cellular uptake (%),100ug/ml,30min,37ºC,Flow cytometry,Cellular uptake,RQIKIWFQNRRMKWKK-SIINFEKL,1
+AntpOVA,Dendritic cells,FITC,27138940,45.0,Cellular uptake (%),100ug/ml,1h,37ºC,Flow cytometry,Cellular uptake,RQIKIWFQNRRMKWKK-SIINFEKL,1
+AntpOVA,Dendritic cells,FITC,27138940,45.0,Cellular uptake (%),100ug/ml,2h,37ºC,Flow cytometry,Cellular uptake,RQIKIWFQNRRMKWKK-SIINFEKL,1
+F6G6(rR)3R2,HeLa cells,4CzIPN,30525541,97.2,Fluorescence intensity (%),2ug/mL,5min,37ºC,Flow cytometry,Cellular internalization of NPs,FFFFFFGGGGGGrrrRR,1
+F6G6(rR)3R2,HeLa cells,NAI-DPAC,30525541,44.1,Fluorescence intensity (%),2ug/mL,5min,37ºC,Flow cytometry,Cellular internalization of NPs,FFFFFFGGGGGGrrrRR,1
+F6G6(rR)3R2,HeLa cells,BTZ-DMAC,30525541,59.7,Fluorescence intensity (%),2ug/mL,5min,37ºC,Flow cytometry,Cellular internalization of NPs,FFFFFFGGGGGGrrrRR,1
+F6G6(rR)3R2,NIH-3T3 cells,4CzIPN,30525541,57.0,Fluorescence intensity (%),2ug/mL,5min,37ºC,Flow cytometry,Cellular internalization of NPs,FFFFFFGGGGGGrrrRR,1
+F6G6(rR)3R2,NIH-3T3 cells,NAI-DPAC,30525541,10.3,Fluorescence intensity (%),2ug/mL,5min,37ºC,Flow cytometry,Cellular internalization of NPs,FFFFFFGGGGGGrrrRR,1
+F6G6(rR)3R2,NIH-3T3 cells,BTZ-DMAC,30525541,18.0,Fluorescence intensity (%),2ug/mL,5min,37ºC,Flow cytometry,Cellular internalization of NPs,FFFFFFGGGGGGrrrRR,1
+PEP-1,HEK293T cells,GFP,27516189,57.58,GFP-positive population (%),20uM,4h,,Flow cytometry,Transfection,Ac-KETWWETWWTEWSQPKKKRKV-Cya,1
+CADY-2,HEK293T cells,GFP,27516189,58.7,GFP-positive population (%),20uM,4h,,Flow cytometry,Transfection,Ac-GLWWRLWWRLRSWFRLWFRA-Cya,1
+Kkd-5,HeLa cells,FITC,28349160,30.0,Relative Mean Fluorescence intensity (%),5uM,4h,37ºC,Flow cytometry,Cellular uptake,,1
+Kkd-5,HeLa cells,FITC,28349160,70.0,Relative Mean Fluorescence intensity (%),10uM,4h,37ºC,Flow cytometry,Cellular uptake,,1
+Kkd-5,HeLa cells,FITC,28349160,97.0,Relative Mean Fluorescence intensity (%),25uM,4h,37ºC,Flow cytometry,Cellular uptake,,1
+CPP 2,RAW264.7 cells,FITC,30095906,71.9,Intracellular FITC-labeled peptides (%),5uM,2h,37ºC,Flow cytometry,Cellular uptake,GFAWNVCVYRNGVRVCHRRAN,1
+CPP 6,RAW264.7 cells,FITC,30095906,95.8,Intracellular FITC-labeled peptides (%),5uM,2h,37ºC,Flow cytometry,Cellular uptake,YGRKKRRQRRR-C-MC-VC-PABC-GFAWNVCVYRNGVRVCHRRAN,1
+CPP 7,RAW264.7 cells,FITC,30095906,75.2,Intracellular FITC-labeled peptides (%),5uM,2h,37ºC,Flow cytometry,Cellular uptake,GFAWNVCVYRNGVRVCHRRAN-NH2,1
+RG301,HeLa cells,Carboxyfluorescein,34333729,100.0,Cellular uptake (%),10uM,4h,37ºC,Flow cytometry,Cellular uptake,RaDPAYQaRFLGKrKfIcL,1
+RG302,HeLa cells,Carboxyfluorescein,34333729,100.0,Cellular uptake (%),10uM,4h,37ºC,Flow cytometry,Cellular uptake,KrKfIcLGRaDPAYQaRFL,1
+CTX-M1,HeLa cells,Alexa488,28459137,40.0,Relative fluorescence (%),6uM,1h,37ºC,Flow cytometry,Internalization of fluorescently labeled peptides,MCMPCFTTDHQMARRCDDCCGGRGRGKCYGPQCLCR,1
+CTX-M2,HeLa cells,Alexa488,28459137,38.0,Relative fluorescence (%),6uM,1h,37ºC,Flow cytometry,Internalization of fluorescently labeled peptides,MCMPCFTTDHQMARRCDDCCGGRGRGKCWGPQCLCR,1
+CTX-M1,HeLa cells,Cy5.5,28459137,49.0,Relative fluorescence (%),6uM,1h,37ºC,Flow cytometry,Internalization of fluorescently labeled peptides,MCMPCFTTDHQMARRCDDCCGGRGRGKCYGPQCLCR,1
+CTX-M2,HeLa cells,Cy5.5,28459137,75.0,Relative fluorescence (%),6uM,1h,37ºC,Flow cytometry,Internalization of fluorescently labeled peptides,MCMPCFTTDHQMARRCDDCCGGRGRGKCWGPQCLCR,1
+His16-Lyso,HT1080 cells,lysosomes,31426598,100.0,Relative cellular uptake (%),,,37ºC,Flow cytometry,Cellular uptake,stearly-His6-HHHHHHHHHHHHHHHH–NH2,1
+R9,A549 cells,chitosan/siRNA,26568525,70.0,Cellular uptake (%),,,,Flow cytometry,Cellular uptake,RRRRRRRRR,1
+R9G4,A549 cells,chitosan/siRNA,26568525,80.0,Cellular uptake (%),,,,Flow cytometry,Cellular uptake,RRRRRRRRRGGGG,1
+R9G10,A549 cells,chitosan/siRNA,26568525,90.0,Cellular uptake (%),,,,Flow cytometry,Cellular uptake,RRRRRRRRRGGGGGGGGGG,1
+PFV,U87 cells,Doxorubicin,30261346,52.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,PFVYLI,1
+PFV,bEnd.3 cells,Doxorubicin,30261346,50.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,PFVYLI,1
+PFV,Glial cells,Doxorubicin,30261346,50.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,PFVYLI,1
+Tf-PFV,U87 cells,Doxorubicin,30261346,65.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,Tf-PFVYLI,1
+Tf-PFV,bEnd.3 cells,Doxorubicin,30261346,5.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,Tf-PFVYLI,1
+Tf-PFV,Glial cells,Doxorubicin,30261346,62.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,Tf-PFVYLI,1
+PFV,U87 cells,Erlo,30261346,45.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,PFVYLI,1
+PFV,bEnd.3 cells,Erlo,30261346,47.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,PFVYLI,1
+PFV,Glial cells,Erlo,30261346,43.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,PFVYLI,1
+Tf-PFV,U87 cells,Erlo,30261346,70.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,Tf-PFVYLI,1
+Tf-PFV,bEnd.3 cells,Erlo,30261346,69.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,Tf-PFVYLI,1
+Tf-PFV,Glial cells,Erlo,30261346,65.0,Cellular uptake (%),,2h,37ºC,Flow cytometry,Cellular uptake,Tf-PFVYLI,1
+KL4,A549 cells,siRNA,32352853,75.0,Cellular uptake (%),3000 pmol,4h,37ºC,Flow cytometry,Cellular uptake,KLLLLKLLLLKLLLLKLLLLK,1
+KA2,A549 cells,siRNA,32352853,0.0,Cellular uptake (%),3000 pmol,4h,37ºC,Flow cytometry,Cellular uptake,KAALLKAALLKAALLKAALLK,0
+KV4,A549 cells,siRNA,32352853,90.0,Cellular uptake (%),3000 pmol,4h,37ºC,Flow cytometry,Cellular uptake,KVVVVKVVVVKVVVVKVVVVK,1
+C6M1,CHO-K1 cells,Cy3-siRNA,26682443,100.0,Relative fluorescence (%),,4h,37ºC,Flow cytometry,Cellular uptake,Acetyl-RLWRLLWRLWRRLWRLLR-NH2,1
+DM1,CHO-K1 cells,Cy3-siRNA,26682443,95.0,Relative fluorescence (%),,4h,37ºC,Flow cytometry,Cellular uptake,DEG-RLWRLLWRLWRRLWRLLR-NH2,1
+NFL-TBS.40-63,J3T cells,LNC-(DiD),34144141,17.0,Fluorescent cells (%),1 mg/ml,12h,37ºC,Flow cytometry,Cellular uptake of LNC-(DiD),YSSYSAPVSSSLSVRRSYSSSSGS,1
